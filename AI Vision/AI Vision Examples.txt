@@ -1,0 +1,4 @@
+CV
+Object Detection
+Segment
+PaddleOCR
