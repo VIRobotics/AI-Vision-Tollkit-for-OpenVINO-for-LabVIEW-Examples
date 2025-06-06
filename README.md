@@ -1,2 +1,5 @@
-# AI-Vision-Tollkit-for-OpenVINO-for-LabVIEW-Examples
-Examples of AI Vision Tollkit for OpenVINO for LabVIEW 
+# Labview上的OpenVINO AI加速工具范例
+
+视觉
+
+生成式模型
